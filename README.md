@@ -68,13 +68,6 @@ Sitio comercial de compra/venta de vehículos con video scroll.
 </tr>
 </table>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fleremiasflemin20-maker&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleremiasflemin20-maker&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
-</div>
-
 ## 🛠️ Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
