@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lenin%20Bonilla&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Desarrollador%20Frontend%20%C2%B7%20Experiencias%20de%20Scroll%20e%20Interactivas&descAlignY=65&descSize=16&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lenin%20Bonilla&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Ingeniero%20en%20Software%20%C2%B7%20Adm.%20de%20Empresas%20Hoteleras%20y%20Tur%C3%ADsticas&descAlignY=65&descSize=15&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=888888&center=true&vCenter=true&width=650&lines=Construyo+sitios+cinematogr%C3%A1ficos+con+scroll;HTML%2FCSS%2FJS+vanilla+%2C+Three.js+%2C+GSAP;Aprendiendo+y+enviando+proyectos+cada+semana" alt="typing" />
+
+<br/>
+
+🎓 **Ingeniero en Software**&nbsp;&nbsp;·&nbsp;&nbsp;🏨 **Ingeniero en Administración de Empresas Hoteleras y Turísticas**
 
 <br/>
 
