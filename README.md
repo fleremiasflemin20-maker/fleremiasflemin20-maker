@@ -16,6 +16,26 @@
 
 </div>
 
+## ⭐ Lo último
+
+<table>
+<tr><td>
+
+<a href="https://fleremiasflemin20-maker.github.io/gogeta-ssj4-scrollytelling/">
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/gogeta-ssj4-scrollytelling/main/docs/preview.png" width="100%" alt="Gogeta SSJ4 — scrollytelling 3D" />
+</a>
+
+### 🔥 Gogeta SSJ4 — Scrollytelling 3D
+
+Una figura escaneada con el móvil, convertida en modelo PBR de 150.000 triángulos y servida en **692 KB**. La cámara hace un solo viaje continuo alrededor del personaje, gobernado por el scroll. Dos modos de render —anime y realista— sobre la misma malla, y un panel que le quita capas a la figura en vivo para enseñar cómo está hecha.
+
+`React Three Fiber` · `three.js` · `GSAP` · `Lenis` · `Draco` · `Blender`
+
+[🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/gogeta-ssj4-scrollytelling/) · [📂 Código](https://github.com/fleremiasflemin20-maker/gogeta-ssj4-scrollytelling)
+
+</td></tr>
+</table>
+
 ## 🚀 Repositorios
 
 Todos son sitios reales, publicados y funcionando — click en "Ver sitio" para abrirlos directo, sin pasar por el código.
