@@ -16,7 +16,7 @@
 
 </div>
 
-## 🚀 Proyectos destacados
+## 🚀 Repositorios
 
 Todos son sitios reales, publicados y funcionando — click en "Ver sitio" para abrirlos directo, sin pasar por el código.
 
@@ -64,6 +64,24 @@ Landing de producto tipo Apple con scrollytelling (GSAP + Lenis).
 Sitio comercial de compra/venta de vehículos con video scroll.
 
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/fidel-bonilla-autos/) · [📂 Código](https://github.com/fleremiasflemin20-maker/fidel-bonilla-autos)
+
+</td>
+<td width="50%">
+
+**🏨 Fleremahias PMS**
+Sistema de gestión hotelera para Ecuador — facturación SRI, modo offline.
+
+[🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/fleremiasPMS/) · [📂 Código](https://github.com/fleremiasflemin20-maker/fleremiasPMS)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎂 Andy Detalles**
+Sitio comercial de repostería con pedidos automáticos por WhatsApp.
+
+[🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/Andy-detalles/) · [📂 Código](https://github.com/fleremiasflemin20-maker/Andy-detalles)
 
 </td>
 <td width="50%">
