@@ -38,11 +38,13 @@ Una figura escaneada con el móvil, convertida en modelo PBR de 150.000 triángu
 
 ## 🚀 Repositorios
 
-Todos son sitios reales, publicados y funcionando — click en "Ver sitio" para abrirlos directo, sin pasar por el código.
+Todos son sitios reales, publicados y funcionando — capturas tomadas directo del sitio en vivo.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/"><img src="https://github.com/user-attachments/assets/f8413855-97b8-4cb2-b506-7deeffd448a0" width="100%" alt="VICE — Portfolio"/></a>
 
 **🎭 VICE — Portfolio**
 Este mismo portafolio, con rueda de selección de personaje.
@@ -50,7 +52,9 @@ Este mismo portafolio, con rueda de selección de personaje.
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/) · [📂 Código](https://github.com/fleremiasflemin20-maker/Portafolio-fleremiasflemin)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/gogeta-ssj4-scrollytelling/"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/gogeta-ssj4-scrollytelling/main/docs/preview.png" width="100%" alt="Gogeta SSJ4"/></a>
 
 **🔥 Gogeta SSJ4**
 Scrollytelling 3D — modelo PBR con cámara continua gobernada por el scroll.
@@ -60,7 +64,9 @@ Scrollytelling 3D — modelo PBR con cámara continua gobernada por el scroll.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/web-cinematic-scroll/"><img src="https://github.com/user-attachments/assets/c890fb21-c1c1-4fd1-aade-5bccb6242eb0" width="100%" alt="AURELIA"/></a>
 
 **🏛️ AURELIA — Estudio de Arquitectura**
 Scroll cinematográfico con secuencia de frames.
@@ -68,7 +74,9 @@ Scroll cinematográfico con secuencia de frames.
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/web-cinematic-scroll/) · [📂 Código](https://github.com/fleremiasflemin20-maker/web-cinematic-scroll)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/aerial-estudio/"><img src="https://github.com/user-attachments/assets/6e5678f3-9478-4a71-aecf-11eb2c472916" width="100%" alt="Aerial — Estudio"/></a>
 
 **🌄 Aerial — Estudio**
 Video de dron convertido en scroll interactivo.
@@ -78,7 +86,9 @@ Video de dron convertido en scroll interactivo.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/reptilian-interface/"><img src="https://github.com/user-attachments/assets/a9987262-105d-4a8c-bf72-4f64ea89f5fd" width="100%" alt="¡DRACONIAN!"/></a>
 
 **🐉 ¡DRACONIAN!**
 Modelo 3D interactivo (Three.js) con control por gestos de mano.
@@ -86,7 +96,9 @@ Modelo 3D interactivo (Three.js) con control por gestos de mano.
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/reptilian-interface/) · [📂 Código](https://github.com/fleremiasflemin20-maker/reptilian-interface)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/apple-watch-ultra-scrollytelling/"><img src="https://github.com/user-attachments/assets/f7d2edfa-d53d-4b5f-b53d-00ea9aa508cb" width="100%" alt="Apple Watch Ultra"/></a>
 
 **⌚ Apple Watch Ultra**
 Landing de producto tipo Apple con scrollytelling (GSAP + Lenis).
@@ -96,7 +108,9 @@ Landing de producto tipo Apple con scrollytelling (GSAP + Lenis).
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/fidel-bonilla-autos/"><img src="https://github.com/user-attachments/assets/d210c51a-df39-4769-9309-b2ca638b495b" width="100%" alt="Scroll·Cars"/></a>
 
 **🚗 Scroll·Cars**
 Sitio comercial de compra/venta de vehículos con video scroll.
@@ -104,7 +118,9 @@ Sitio comercial de compra/venta de vehículos con video scroll.
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/fidel-bonilla-autos/) · [📂 Código](https://github.com/fleremiasflemin20-maker/fidel-bonilla-autos)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/Andy-detalles/"><img src="https://github.com/user-attachments/assets/aac820ef-0025-46d0-9400-9ee2dc712a14" width="100%" alt="Andy Detalles"/></a>
 
 **🎂 Andy Detalles**
 Sitio comercial de repostería con pedidos automáticos por WhatsApp.
@@ -121,7 +137,9 @@ Sistema de gestión hotelera para Ecuador, dividido en 6 repositorios: landing p
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://fleremiasflemin20-maker.github.io/fleremiasPMS/"><img src="https://github.com/user-attachments/assets/939fcda6-fa2b-4d5f-bb77-c2b4b34a01a8" width="100%" alt="Fleremahias PMS — Landing"/></a>
 
 **🌐 Landing**
 Página comercial del producto.
@@ -129,7 +147,9 @@ Página comercial del producto.
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/fleremiasPMS/) · [📂 Código](https://github.com/fleremiasflemin20-maker/fleremiasPMS)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/70429306-a47b-43d8-8055-b3a8f03a833b" width="100%" alt="Panel PMS — Front Desk"/>
 
 **🖥️ Panel (PMS)** 🔒 *privado*
 Front desk, reservas, housekeeping, facturación, tape chart, conserje IA.
@@ -139,15 +159,17 @@ Front desk, reservas, housekeeping, facturación, tape chart, conserje IA.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **⚙️ API** 🔒 *privado*
-Backend Fastify + Prisma + Socket.io + Claude AI + Stripe.
+Backend Fastify + Prisma + Socket.io + Claude AI + Stripe. Sin interfaz visual — expone la API REST y WebSockets que consumen las demás apps.
 
 [📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-api)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/932812f6-5d67-403a-b750-719e70078314" width="60%" alt="App Staff"/>
 
 **📱 App Staff** 🔒 *privado*
 App móvil para housekeeping y mantenimiento.
@@ -157,7 +179,9 @@ App móvil para housekeeping y mantenimiento.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/2ec984a2-9fda-462f-b774-e6b226b6ea26" width="60%" alt="App Admin"/>
 
 **📱 App Admin** 🔒 *privado*
 Supervisión en vivo y dashboard de SLA.
@@ -165,7 +189,9 @@ Supervisión en vivo y dashboard de SLA.
 [📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-admin-mobile)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/de7980b3-cb4d-4d56-886b-5e91bec003cc" width="60%" alt="App Huéspedes"/>
 
 **📱 App Huéspedes** 🔒 *privado*
 Solicitud y seguimiento de servicios desde el celular.
