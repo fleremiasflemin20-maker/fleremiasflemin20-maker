@@ -21,8 +21,6 @@
 <sub>Cuatro productos lanzados este mes. Los GIF son grabaciones reales de cada sitio en vivo — toca cualquiera para abrirlo.</sub>
 
 <!-- ───────────── ENCAJA STUDIO ───────────── -->
-<table>
-<tr><td>
 
 <a href="https://encajalab.com"><img src="./assets/destacados/encaja-studio.gif" width="100%" alt="Encaja Studio — demo en video"/></a>
 
@@ -32,25 +30,22 @@ Constructor de apps móviles **sin programar**: arrastras piezas al teléfono y 
 
 `Tablero infinito` · `IA que diseña pantallas` · `33 apps base` · `21 estilos` · `+80 piezas` · `HTML / React Native / Flutter`
 
-<table>
-<tr>
-<td width="33%"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/encaja-studio-demo/main/capturas/01-tablero.png" alt="Tablero infinito"/><br/><sub><b>Tablero infinito</b> con flujos</sub></td>
-<td width="33%"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/encaja-studio-demo/main/capturas/08-ia.png" alt="IA"/><br/><sub><b>IA</b> que diseña pantallas</sub></td>
-<td width="33%"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/encaja-studio-demo/main/capturas/04-exportar.png" alt="Exportar"/><br/><sub><b>Exporta</b> a código real</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/encaja-studio-demo/main/capturas/01-tablero.png" width="32%" alt="Tablero infinito"/>
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/encaja-studio-demo/main/capturas/08-ia.png" width="32%" alt="IA"/>
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/encaja-studio-demo/main/capturas/04-exportar.png" width="32%" alt="Exportar"/>
+<br/>
+<sub><b>Tablero infinito</b> con flujos &nbsp;·&nbsp; <b>IA</b> que diseña pantallas &nbsp;·&nbsp; <b>Exporta</b> a código real</sub>
+</p>
 
 [![Abrir](https://img.shields.io/badge/🚀_Abrir_Encaja-6E5BFF?style=for-the-badge)](https://encajalab.com)
 [![Video](https://img.shields.io/badge/▶_Ver_video-E2479A?style=for-the-badge)](./assets/destacados/encaja-studio.mp4)
 [![Demo](https://img.shields.io/badge/📸_Demo_y_capturas-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/encaja-studio-demo)
 ![Privado](https://img.shields.io/badge/código-privado-30363d?style=for-the-badge)
 
-</td></tr>
-</table>
+<br/>
 
 <!-- ───────────── FLEMIN STUDIO 3D ───────────── -->
-<table>
-<tr><td>
 
 <a href="https://flemin-studio-3d.analista-datos-pro.workers.dev/"><img src="./assets/destacados/flemin.gif" width="100%" alt="Flemin Studio 3D — demo en video"/></a>
 
@@ -60,21 +55,20 @@ Motor de separación para impresión 3D que corre **entero en el navegador**. Ab
 
 `Three.js` · `Cloudflare Workers` · `3MF multicolor` · `STL por pieza` · `Bambu / Orca / CrealityPrint`
 
-<table>
-<tr>
-<td width="33%"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/flemin-studio-3d-web/main/promo/portada.png" alt="Portada"/><br/><sub><b>Un clic</b>, cada color una pieza</sub></td>
-<td width="33%"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/flemin-studio-3d-web/main/promo/separador.png" alt="Separador"/><br/><sub><b>Cortes</b> con conectores</sub></td>
-<td width="33%"><img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/flemin-studio-3d-web/main/promo/editor.png" alt="Editor"/><br/><sub><b>Editor 3D</b> y plantillas</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/flemin-studio-3d-web/main/promo/portada.png" width="32%" alt="Portada"/>
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/flemin-studio-3d-web/main/promo/separador.png" width="32%" alt="Separador"/>
+  <img src="https://raw.githubusercontent.com/fleremiasflemin20-maker/flemin-studio-3d-web/main/promo/editor.png" width="32%" alt="Editor"/>
+<br/>
+<sub><b>Un clic</b>, cada color una pieza &nbsp;·&nbsp; <b>Cortes</b> con conectores &nbsp;·&nbsp; <b>Editor 3D</b> y plantillas</sub>
+</p>
 
 [![Abrir](https://img.shields.io/badge/🚀_Abrir_el_Studio-FF6A13?style=for-the-badge)](https://flemin-studio-3d.analista-datos-pro.workers.dev/)
 [![Video](https://img.shields.io/badge/▶_Ver_video-FFC23D?style=for-the-badge)](./assets/destacados/flemin.mp4)
 [![Web](https://img.shields.io/badge/📂_Página_del_proyecto-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/flemin-studio-3d-web)
 ![Privado](https://img.shields.io/badge/motor-privado-30363d?style=for-the-badge)
 
-</td></tr>
-</table>
+<br/>
 
 <!-- ───────────── BIBLIOTECA 3D + PORTAFOLIO ───────────── -->
 <table>
@@ -89,10 +83,8 @@ Tienda de modelos 3D para imprimir: **+100 piezas** (figuras, tecnología, autos
 
 `React` · `Three.js` · `Vite` · `Tailwind`
 
-<table><tr>
-<td><img src="./assets/destacados/biblioteca-0000.jpg" alt="Portada"/></td>
-<td><img src="./assets/destacados/biblioteca-0052.jpg" alt="Catálogo"/></td>
-</tr></table>
+<img src="./assets/destacados/biblioteca-0000.jpg" width="49%" alt="Portada"/>
+<img src="./assets/destacados/biblioteca-0052.jpg" width="49%" alt="Catálogo"/>
 
 [![Ver](https://img.shields.io/badge/🔗_Ver_tienda-8A3CFF?style=flat-square)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/)
 [![Video](https://img.shields.io/badge/▶_Video-8A3CFF?style=flat-square)](./assets/destacados/biblioteca.mp4)
@@ -109,10 +101,8 @@ Mi portafolio con lenguaje de videojuego: atardecer estilo Vice City, HUD y una 
 
 `React` · `Three.js` · `GSAP` · `SVG`
 
-<table><tr>
-<td><img src="./assets/destacados/portafolio-0020.jpg" alt="Hero"/></td>
-<td><img src="./assets/destacados/portafolio-0045.jpg" alt="Historia"/></td>
-</tr></table>
+<img src="./assets/destacados/portafolio-0020.jpg" width="49%" alt="Hero"/>
+<img src="./assets/destacados/portafolio-0045.jpg" width="49%" alt="Historia"/>
 
 [![Ver](https://img.shields.io/badge/🔗_Ver_sitio-FF2D8A?style=flat-square)](https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/)
 [![Video](https://img.shields.io/badge/▶_Video-FF2D8A?style=flat-square)](./assets/destacados/portafolio.mp4)
