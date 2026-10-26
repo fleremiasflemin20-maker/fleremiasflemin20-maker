@@ -39,7 +39,7 @@ Constructor de apps móviles **sin programar**: arrastras piezas al teléfono y 
 </p>
 
 [![Abrir](https://img.shields.io/badge/🚀_Abrir_Encaja-6E5BFF?style=for-the-badge)](https://encajalab.com)
-[![Video](https://img.shields.io/badge/▶_Ver_video-E2479A?style=for-the-badge)](./assets/destacados/encaja-studio.mp4)
+[![Video](https://img.shields.io/badge/▶_Ver_video-E2479A?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/encaja-studio.mp4)
 [![Demo](https://img.shields.io/badge/📸_Demo_y_capturas-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/encaja-studio-demo)
 ![Privado](https://img.shields.io/badge/código-privado-30363d?style=for-the-badge)
 
@@ -64,7 +64,7 @@ Motor de separación para impresión 3D que corre **entero en el navegador**. Ab
 </p>
 
 [![Abrir](https://img.shields.io/badge/🚀_Abrir_el_Studio-FF6A13?style=for-the-badge)](https://flemin-studio-3d.analista-datos-pro.workers.dev/)
-[![Video](https://img.shields.io/badge/▶_Ver_video-FFC23D?style=for-the-badge)](./assets/destacados/flemin.mp4)
+[![Video](https://img.shields.io/badge/▶_Ver_video-FFC23D?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/flemin.mp4)
 [![Web](https://img.shields.io/badge/📂_Página_del_proyecto-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/flemin-studio-3d-web)
 ![Privado](https://img.shields.io/badge/motor-privado-30363d?style=for-the-badge)
 
@@ -87,7 +87,7 @@ Tienda de modelos 3D para imprimir: **+100 piezas** (figuras, tecnología, autos
 <img src="./assets/destacados/biblioteca-0052.jpg" width="49%" alt="Catálogo"/>
 
 [![Ver](https://img.shields.io/badge/🔗_Ver_tienda-8A3CFF?style=flat-square)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/)
-[![Video](https://img.shields.io/badge/▶_Video-8A3CFF?style=flat-square)](./assets/destacados/biblioteca.mp4)
+[![Video](https://img.shields.io/badge/▶_Video-8A3CFF?style=flat-square)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/biblioteca.mp4)
 [![Código](https://img.shields.io/badge/📂_Código-1D1D1F?style=flat-square&logo=github)](https://github.com/fleremiasflemin20-maker/biblioteca-3d)
 
 </td>
@@ -105,7 +105,7 @@ Mi portafolio con lenguaje de videojuego: atardecer estilo Vice City, HUD y una 
 <img src="./assets/destacados/portafolio-0045.jpg" width="49%" alt="Historia"/>
 
 [![Ver](https://img.shields.io/badge/🔗_Ver_sitio-FF2D8A?style=flat-square)](https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/)
-[![Video](https://img.shields.io/badge/▶_Video-FF2D8A?style=flat-square)](./assets/destacados/portafolio.mp4)
+[![Video](https://img.shields.io/badge/▶_Video-FF2D8A?style=flat-square)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/portafolio.mp4)
 [![Código](https://img.shields.io/badge/📂_Código-1D1D1F?style=flat-square&logo=github)](https://github.com/fleremiasflemin20-maker/Portafolio-fleremiasflemin)
 
 </td>
