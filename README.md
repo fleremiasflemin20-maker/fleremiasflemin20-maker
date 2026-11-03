@@ -47,7 +47,7 @@ Constructor de apps móviles **sin programar**: arrastras piezas al teléfono y 
 
 <!-- ───────────── FLEMIN STUDIO 3D ───────────── -->
 
-<a href="https://flemin-studio-3d.analista-datos-pro.workers.dev/"><img src="./assets/destacados/flemin.gif" width="100%" alt="Flemin Studio 3D — demo en video"/></a>
+<a href="https://flemin-studio-3d.fleremiasflemin.workers.dev/"><img src="./assets/destacados/flemin.gif" width="100%" alt="Flemin Studio 3D — demo en video"/></a>
 
 ### ✂️ Flemin Studio 3D — tu modelo, en piezas perfectas para imprimir
 
@@ -63,46 +63,70 @@ Motor de separación para impresión 3D que corre **entero en el navegador**. Ab
 <sub><b>Un clic</b>, cada color una pieza &nbsp;·&nbsp; <b>Cortes</b> con conectores &nbsp;·&nbsp; <b>Editor 3D</b> y plantillas</sub>
 </p>
 
-[![Abrir](https://img.shields.io/badge/🚀_Abrir_el_Studio-FF6A13?style=for-the-badge)](https://flemin-studio-3d.analista-datos-pro.workers.dev/)
+[![Abrir](https://img.shields.io/badge/🚀_Abrir_el_Studio-FF6A13?style=for-the-badge)](https://flemin-studio-3d.fleremiasflemin.workers.dev/)
 [![Video](https://img.shields.io/badge/▶_Ver_video-FFC23D?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/flemin.mp4)
 [![Web](https://img.shields.io/badge/📂_Página_del_proyecto-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/flemin-studio-3d-web)
 ![Privado](https://img.shields.io/badge/motor-privado-30363d?style=for-the-badge)
 
 <br/>
 
-<!-- ───────────── BIBLIOTECA 3D + PORTAFOLIO ───────────── -->
+<!-- ───────────── BIBLIOTECA 3D ───────────── -->
+
+<a href="https://fleremiasflemin20-maker.github.io/biblioteca-3d/"><img src="./assets/destacados/biblioteca.gif" width="100%" alt="Biblioteca 3D — recorrido en video por la tienda, la ficha, la historia de Goku y el Modo manos"/></a>
+
+### 🗿 Biblioteca 3D — la tienda de figuras que se juega como un videojuego
+
+**160 figuras en 15 secciones** que eliges como en una pantalla de selección de personajes: la pieza gira en 3D sobre su pedestal, la ves con **textura, arcilla o malla**, y la pides por **WhatsApp, Instagram o Telegram**. Las figuras de Dragon Ball tienen además **su propia historia** contada con scroll, y con el **Modo manos** la agarras con la cámara como si ya la tuvieras impresa.
+
+`React` · `Three.js` · `React Three Fiber` · `GSAP` · `MediaPipe` · `Vite` · `Tailwind` · `Cloudflare Workers`
+
+<p align="center">
+  <img src="./assets/destacados/biblioteca/seleccion.jpg" width="32%" alt="Pantalla de selección"/>
+  <img src="./assets/destacados/biblioteca/ficha-su-historia.jpg" width="32%" alt="Ficha con botón Su historia"/>
+  <img src="./assets/destacados/biblioteca/modo-manos.jpg" width="32%" alt="Modo manos"/>
+<br/>
+<sub><b>Selección</b> estilo videojuego con el globo «¡Mi historia!» &nbsp;·&nbsp; <b>Ficha</b> con visor 3D y botón <b>Su historia</b> &nbsp;·&nbsp; <b>Modo manos</b>: agárrala con la cámara</sub>
+</p>
+
+#### 📖 Cada personaje cuenta su historia
+
+Al tocar «Su historia» se abre una página tipo manga para ese personaje: titular animado, capítulos (historia, estilo de pelea, la batalla, técnicas), onomatopeyas y la figura en 3D que se mueve con el scroll. Hay **16 personajes**, con los nombres del doblaje latino.
+
+<p align="center">
+  <img src="./assets/destacados/biblioteca/historia-goku.jpg" width="32%" alt="Historia de Goku SSJ"/>
+  <img src="./assets/destacados/biblioteca/historia-vegeta.jpg" width="32%" alt="Historia de Vegeta"/>
+  <img src="./assets/destacados/biblioteca/historia-broly.jpg" width="32%" alt="Historia de Broly"/>
+<br/>
+  <img src="./assets/destacados/biblioteca/historia-trunks.jpg" width="32%" alt="Historia de Trunks"/>
+  <img src="./assets/destacados/biblioteca/historia-goku-ssj4.jpg" width="32%" alt="Historia de Goku SSJ4"/>
+  <img src="./assets/destacados/biblioteca/historia-goku-capitulo.jpg" width="32%" alt="Capítulo de la historia de Goku"/>
+<br/>
+<sub><b>Goku</b> · <b>Vegeta</b> · <b>Broly</b> · <b>Trunks</b> · <b>Goku SSJ4</b> · y un capítulo por dentro</sub>
+</p>
+
+[![Abrir](https://img.shields.io/badge/🚀_Abrir_la_Biblioteca-8A3CFF?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/)
+[![Video](https://img.shields.io/badge/▶_Ver_video-E2479A?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/biblioteca.mp4)
+[![Historia](https://img.shields.io/badge/📖_Historia_de_Goku-FFC23D?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/personaje/?id=saiyan-dorado-chibi-a)
+[![Código](https://img.shields.io/badge/📂_Código-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/biblioteca-3d)
+
+<br/>
+
+<!-- ───────────── PORTAFOLIO ───────────── -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://fleremiasflemin20-maker.github.io/biblioteca-3d/"><img src="./assets/destacados/biblioteca.gif" width="100%" alt="Biblioteca 3D — demo en video"/></a>
-
-### 🗿 Biblioteca 3D
-
-Tienda de modelos 3D para imprimir: **+100 piezas** (figuras, tecnología, autos, mecánica) que se abren en un **visor 3D** —textura, arcilla o malla— antes de comprar. Sala de estudio con pedestales, llaveros con tu nombre y pedido directo por WhatsApp.
-
-`React` · `Three.js` · `Vite` · `Tailwind`
-
-<img src="./assets/destacados/biblioteca-0000.jpg" width="49%" alt="Portada"/>
-<img src="./assets/destacados/biblioteca-0052.jpg" width="49%" alt="Catálogo"/>
-
-[![Ver](https://img.shields.io/badge/🔗_Ver_tienda-8A3CFF?style=flat-square)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/)
-[![Video](https://img.shields.io/badge/▶_Video-8A3CFF?style=flat-square)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/biblioteca.mp4)
-[![Código](https://img.shields.io/badge/📂_Código-1D1D1F?style=flat-square&logo=github)](https://github.com/fleremiasflemin20-maker/biblioteca-3d)
+<a href="https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/"><img src="./assets/destacados/portafolio.gif" width="100%" alt="Portafolio — demo en video"/></a>
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/"><img src="./assets/destacados/portafolio.gif" width="100%" alt="Portafolio — demo en video"/></a>
 
 ### 🎭 Portafolio — Lenin Bonilla
 
 Mi portafolio con lenguaje de videojuego: atardecer estilo Vice City, HUD y una historia contada con **escenas 3D** que avanzan con el scroll —de la recepción de un hotel a ingeniero de software—. Bilingüe ES / EN.
 
 `React` · `Three.js` · `GSAP` · `SVG`
-
-<img src="./assets/destacados/portafolio-0020.jpg" width="49%" alt="Hero"/>
-<img src="./assets/destacados/portafolio-0045.jpg" width="49%" alt="Historia"/>
 
 [![Ver](https://img.shields.io/badge/🔗_Ver_sitio-FF2D8A?style=flat-square)](https://fleremiasflemin20-maker.github.io/Portafolio-fleremiasflemin/)
 [![Video](https://img.shields.io/badge/▶_Video-FF2D8A?style=flat-square)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/portafolio.mp4)
