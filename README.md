@@ -111,6 +111,140 @@ Al tocar «Su historia» se abre una página tipo manga para ese personaje: titu
 
 <br/>
 
+<!-- ───────────── FLEREMAHIAS PMS ───────────── -->
+
+<a href="https://fleremiasflemin20-maker.github.io/fleremiasPMS/"><img src="./assets/destacados/pms/landing.jpg" width="100%" alt="Fleremahias PMS — la gestión hotelera que Ecuador necesita"/></a>
+
+### 🏨 Fleremahias PMS — el sistema para manejar un hotel en Ecuador
+
+Un **PMS** (*Property Management System*) es el programa con el que un hotel trabaja todo el día: quién llega y quién se va, qué habitación está libre o sucia, cuánto debe cada huésped y qué factura hay que emitir. **Fleremahias PMS** junta todo eso en un solo panel conectado en tiempo real, con apps de celular para el personal y para los huéspedes.
+
+**¿Por qué hace falta en la industria hotelera?** Los PMS internacionales no están hechos para Ecuador:
+
+| El problema | Cómo lo resuelve Fleremahias |
+|---|---|
+| 📡 **Sin internet no hay sistema.** En zonas rurales y de playa el internet se cae seguido. | Funciona **sin conexión** y sincroniza cuando vuelve la señal. |
+| 🧾 **La factura electrónica del SRI se hace aparte**, copiando claves de 49 dígitos a mano. | **Factura y nota de crédito SRI integradas**: se autorizan solas desde el folio del huésped. |
+| 💸 **Cuestan USD 200–500 al mes**, demasiado para un hostal u hotel pequeño. | Planes **desde USD 29 al mes**, pensados para hoteles ecuatorianos. |
+
+Lo hice uniendo mis dos carreras: **ingeniería en Software** y **administración hotelera**. Cada pantalla resuelve una tarea real de recepción, pisos, mantenimiento o gerencia.
+
+`React 19` · `TypeScript` · `Tailwind` · `Fastify` · `Prisma` · `PostgreSQL` · `Socket.io` · `Claude AI` · `React Native` · `SRI Ecuador`
+
+#### 🖥️ Cada sección del panel
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/dashboard.jpg" width="100%" alt="Dashboard"/>
+
+**📊 Resumen operativo**
+Lo primero que ve el gerente al abrir: ocupación, llegadas y salidas del día, RevPAR, estado de las habitaciones y alertas, como una factura que el SRI rechazó.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/front-desk.jpg" width="100%" alt="Front Desk"/>
+
+**🛎️ Front Desk**
+La recepción del día en tres columnas: llegadas, huéspedes en casa y salidas. Avisos de VIP, check-in con un clic y QR para que el huésped use su app.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/reservas-folio.jpg" width="100%" alt="Reservas y folio"/>
+
+**📒 Reservas y folio**
+Cada reserva con su cuenta: noches, depósitos, cargos extra, pagos y saldo. Desde aquí se agrega un cargo, se cobra o se emite la factura SRI.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/tape-chart.jpg" width="100%" alt="Tape Chart"/>
+
+**🗓️ Tape Chart**
+El calendario de ocupación que usa todo hotelero: cada habitación es una fila y cada reserva una barra de color según su estado. Se ve de un vistazo qué está libre.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/housekeeping.jpg" width="100%" alt="Housekeeping"/>
+
+**🧹 Housekeeping**
+Control de limpieza por piso: qué habitación está sucia, en limpieza o lista, quién la tiene asignada y qué salidas urgen. Las camareras lo actualizan desde el celular.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/mantenimiento.jpg" width="100%" alt="Mantenimiento"/>
+
+**🔧 Mantenimiento**
+Tickets por habitación o área común con prioridad (urgente, en proceso, pendiente), tipo de daño y técnico asignado. Nada se queda olvidado.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/facturacion-sri.jpg" width="100%" alt="Facturación electrónica SRI"/>
+
+**🧾 Facturación electrónica SRI** · *exclusivo Ecuador*
+Facturas y notas de crédito conectadas al SRI: base 0 % y gravada, IVA y estado de cada comprobante (autorizado, pendiente, rechazado).
+</td>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/conserje-ia.jpg" width="100%" alt="Conserje IA"/>
+
+**🤖 Conserje IA**
+Atiende a los huéspedes por WhatsApp con inteligencia artificial: responde pedidos, avisa a housekeeping, detecta cuándo hace falta una persona y sugiere ventas extra, como tours o spa.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/reportes.jpg" width="100%" alt="Reportes"/>
+
+**📈 Reportes ejecutivos**
+Ocupación, ADR y RevPAR con su tendencia, más los ingresos por canal (directo, Booking, Expedia) para saber de dónde viene el dinero.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/destacados/pms/multi-propiedad.jpg" width="100%" alt="Multi-propiedad"/>
+
+**🏢 Multi-propiedad**
+Para dueños con más de un hotel: ingresos, ocupación y alertas de todas las propiedades consolidados en un solo resumen.
+</td>
+</tr>
+</table>
+
+#### 📱 El ecosistema completo
+
+El panel es una de las 6 partes. Todas hablan con la misma **API** en tiempo real.
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="https://github.com/user-attachments/assets/932812f6-5d67-403a-b750-719e70078314" width="80%" alt="App Staff"/>
+
+**App Staff**<br/><sub>Housekeeping y mantenimiento desde el celular.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://github.com/user-attachments/assets/2ec984a2-9fda-462f-b774-e6b226b6ea26" width="80%" alt="App Admin"/>
+
+**App Admin**<br/><sub>Supervisión en vivo y tiempos de respuesta (SLA).</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://github.com/user-attachments/assets/de7980b3-cb4d-4d56-886b-5e91bec003cc" width="80%" alt="App Huéspedes"/>
+
+**App Huéspedes**<br/><sub>El huésped pide servicios y sigue su estado.</sub>
+</td>
+</tr>
+</table>
+
+| Parte | Qué es | |
+|---|---|:-:|
+| 🌐 **Landing** | Página comercial con módulos, planes y solicitud de demo. | [Ver sitio](https://fleremiasflemin20-maker.github.io/fleremiasPMS/) |
+| 🖥️ **Panel PMS** 🔒 | Las pantallas de arriba. | [Código](https://github.com/fleremiasflemin20-maker/fleremias-pms) |
+| ⚙️ **API** 🔒 | Fastify + Prisma + Socket.io + Claude AI + Stripe: datos, tiempo real y la IA del conserje. | [Código](https://github.com/fleremiasflemin20-maker/fleremias-api) |
+| 📱 **App Staff** 🔒 | React Native para camareras y técnicos. | [Código](https://github.com/fleremiasflemin20-maker/fleremias-staff) |
+| 📱 **App Admin** 🔒 | React Native para supervisores. | [Código](https://github.com/fleremiasflemin20-maker/fleremias-admin-mobile) |
+| 📱 **App Huéspedes** 🔒 | React Native para huéspedes. | [Código](https://github.com/fleremiasflemin20-maker/fleremias-guest) |
+
+[![Abrir](https://img.shields.io/badge/🌐_Ver_la_landing-0A0A6B?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasPMS/)
+[![Demo](https://img.shields.io/badge/📅_Solicitar_demo-0D7C5F?style=for-the-badge)](https://wa.me/593979523040)
+![Privado](https://img.shields.io/badge/código-privado-30363d?style=for-the-badge)
+
+<br/>
+
 <!-- ───────────── PORTAFOLIO ───────────── -->
 
 <table>
@@ -237,77 +371,6 @@ Sitio comercial de repostería con pedidos automáticos por WhatsApp.
 Archipiélago de fantasía renderizado solo con caracteres ASCII. Motor propio, un archivo, cero dependencias.
 
 [🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/islas-de-aether/) · [📂 Código](https://github.com/fleremiasflemin20-maker/islas-de-aether)
-
-</td>
-</tr>
-</table>
-
-## 🏨 Fleremahias PMS — Ecosistema completo
-
-Sistema de gestión hotelera para Ecuador, dividido en 6 repositorios: landing pública + panel + API + 3 apps móviles.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://fleremiasflemin20-maker.github.io/fleremiasPMS/"><img src="https://github.com/user-attachments/assets/939fcda6-fa2b-4d5f-bb77-c2b4b34a01a8" width="100%" alt="Fleremahias PMS — Landing"/></a>
-
-**🌐 Landing**
-Página comercial del producto.
-
-[🔗 Ver sitio](https://fleremiasflemin20-maker.github.io/fleremiasPMS/) · [📂 Código](https://github.com/fleremiasflemin20-maker/fleremiasPMS)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github.com/user-attachments/assets/70429306-a47b-43d8-8055-b3a8f03a833b" width="100%" alt="Panel PMS — Front Desk"/>
-
-**🖥️ Panel (PMS)** 🔒 *privado*
-Front desk, reservas, housekeeping, facturación, tape chart, conserje IA.
-
-[📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-pms)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ API** 🔒 *privado*
-Backend Fastify + Prisma + Socket.io + Claude AI + Stripe. Sin interfaz visual — expone la API REST y WebSockets que consumen las demás apps.
-
-[📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-api)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github.com/user-attachments/assets/932812f6-5d67-403a-b750-719e70078314" width="60%" alt="App Staff"/>
-
-**📱 App Staff** 🔒 *privado*
-App móvil para housekeeping y mantenimiento.
-
-[📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-staff)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github.com/user-attachments/assets/2ec984a2-9fda-462f-b774-e6b226b6ea26" width="60%" alt="App Admin"/>
-
-**📱 App Admin** 🔒 *privado*
-Supervisión en vivo y dashboard de SLA.
-
-[📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-admin-mobile)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github.com/user-attachments/assets/de7980b3-cb4d-4d56-886b-5e91bec003cc" width="60%" alt="App Huéspedes"/>
-
-**📱 App Huéspedes** 🔒 *privado*
-Solicitud y seguimiento de servicios desde el celular.
-
-[📂 Código](https://github.com/fleremiasflemin20-maker/fleremias-guest)
 
 </td>
 </tr>
