@@ -72,7 +72,7 @@ Motor de separación para impresión 3D que corre **entero en el navegador**. Ab
 
 <!-- ───────────── BIBLIOTECA 3D ───────────── -->
 
-<a href="https://fleremiasflemin20-maker.github.io/biblioteca-3d/"><img src="./assets/destacados/biblioteca.gif" width="100%" alt="Biblioteca 3D — recorrido en video por la tienda, la ficha, la historia de Goku y el Modo manos"/></a>
+<a href="https://fleremiasflemin20-maker.github.io/biblioteca-3d/"><img src="./assets/destacados/biblioteca-recorrido.gif" width="100%" alt="Biblioteca 3D — recorrido en video por la tienda, la ficha, la historia de Goku y el Modo manos"/></a>
 
 ### 🗿 Biblioteca 3D — la tienda de figuras que se juega como un videojuego
 
@@ -105,7 +105,7 @@ Al tocar «Su historia» se abre una página tipo manga para ese personaje: titu
 </p>
 
 [![Abrir](https://img.shields.io/badge/🚀_Abrir_la_Biblioteca-8A3CFF?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/)
-[![Video](https://img.shields.io/badge/▶_Ver_video-E2479A?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/biblioteca.mp4)
+[![Video](https://img.shields.io/badge/▶_Ver_video-E2479A?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/fleremiasflemin20-maker/assets/destacados/biblioteca-recorrido.mp4)
 [![Historia](https://img.shields.io/badge/📖_Historia_de_Goku-FFC23D?style=for-the-badge)](https://fleremiasflemin20-maker.github.io/biblioteca-3d/personaje/?id=saiyan-dorado-chibi-a)
 [![Código](https://img.shields.io/badge/📂_Código-1D1D1F?style=for-the-badge&logo=github)](https://github.com/fleremiasflemin20-maker/biblioteca-3d)
 
